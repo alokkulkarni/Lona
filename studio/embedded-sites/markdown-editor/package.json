@@ -38,7 +38,7 @@
     "style-loader": "^0.21.0",
     "webpack": "^3.10.0",
     "webpack-cli": "^2.0.13",
-    "webpack-dev-server": "^3.1.11"
+    "webpack-dev-server": "^5.2.1"
   },
   "dependencies": {
     "airbnb-prop-types": "^2.8.1",
